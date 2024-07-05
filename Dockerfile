@@ -1,4 +1,4 @@
-
+##### multiple stages
 # build environment
 FROM node:13 as build
 WORKDIR /app
